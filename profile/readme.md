@@ -1,10 +1,18 @@
-### About GrowInCommunity
-* This community is for Learn, build and grow together.
-* We also provide one to one guidance session if need from scratch.
-* And we keeps regular sessions in forms of google meet, twitter space or group engagements to maintain consistency and follow-ups for you.
+## About GrowInCommunity 🚀
+* Vibrant and inclusive community dedicated to fostering **learning, collaboration, and personal growth**.
+* Our mission is to create a supportive environment where individuals can come together to **learn, build, and grow together**.
+* We also provide one to one guidance session if you need knowledge from scratch as a beginner.
+* Regular sessions in forms of **google meet, twitter space, discord sessions and group engagements** to maintain consistency and follow-ups for you.
 
-## [Join Our GitHub Organization]( https://github.com/GrowInCommunity/support/issues/new?assignees=&labels=Invite+me+to+the+organization&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
-## [Discord](https://discord.gg/m5anDXXF)
+## Latest Event
+GrowInComm x Showwcase [Blogathon](https://twitter.com/GrowInComm/status/1668158321881219073?s=20) in June 2023. 
+
+More details [here]( https://twitter.com/GrowInComm/status/1667473287440658433?s=20)
+
+---
+
+### [Join Our GitHub Organization]( https://github.com/GrowInCommunity/support/issues/new?assignees=&labels=Invite+me+to+the+organization&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
+### [Join Discord Community](https://discord.gg/m5anDXXF)
 
 # Connect with us:
 
