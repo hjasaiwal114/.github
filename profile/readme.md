@@ -1,3 +1,4 @@
+![.](https://github.com/GrowInCommunity/Branding/blob/main/Assets/Banner-coverphoto.jpg)
 ## About GrowInCommunity 🚀
 * Vibrant and inclusive community dedicated to fostering **learning, collaboration, and personal growth**.
 * Our mission is to create a supportive environment where individuals can come together to **learn, build, and grow together**.
