@@ -2,11 +2,11 @@
 ## About GrowInCommunity 🚀
 * Vibrant and inclusive community dedicated to fostering **learning, collaboration, and personal growth**.
 * Our mission is to create a supportive environment where individuals can come together to **learn, build, and grow together**.
-* We also provide one to one guidance session if you need knowledge from scratch as a beginner.
-* Regular sessions in forms of **google meet, twitter space, discord sessions and group engagements** to maintain consistency and follow-ups for you.
+* We also provide one-to-one guidance sessions if you need knowledge from scratch as a beginner.
+* Regular sessions in the form of **google meet, Twitter space, discord sessions, and group engagements** to maintain consistency and follow-ups for you.
 
 ## Latest Event
-GrowInComm x Showwcase [Blogathon](https://twitter.com/GrowInComm/status/1668158321881219073?s=20) in June 2023. 
+GrowInComm x Showcase [Blogathon](https://twitter.com/GrowInComm/status/1668158321881219073?s=20) in June 2023. 
 
 More details [here]( https://twitter.com/GrowInComm/status/1667473287440658433?s=20)
 
