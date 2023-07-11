@@ -6,7 +6,7 @@
 * Regular sessions in the form of **google meet, Twitter space, discord sessions, and group engagements** to maintain consistency and follow-ups for you.
 
 ## Latest Event
-GrowInComm x Showcase [Blogathon](https://twitter.com/GrowInComm/status/1668158321881219073?s=20) in June 2023. 
+GrowInComm x showwcase [Blogathon](https://twitter.com/GrowInComm/status/1668158321881219073?s=20) in June 2023. 
 
 More details [here]( https://twitter.com/GrowInComm/status/1667473287440658433?s=20)
 
